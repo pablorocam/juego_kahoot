@@ -1,0 +1,92 @@
+﻿Imagen,Pregunta,Correcta,Incorrecta1,Incorrecta2,Incorrecta3
+arteria_axilar.png,¿Qué arteria corresponde a la letra a?,Arteria axilar,Arteria humeral,Arteria radial,Arteria braquial
+arteria_axilar.png,¿Qué arteria corresponde a la letra b?,Arteria torácica externa,Arteria toracodorsal,Arteria subescapular,Arteria escapular
+arteria_axilar.png,¿Qué arteria corresponde a la letra c?,Arteria circunfleja humeral craneal,Arteria circunfleja humeral caudal,Arteria subescapular,Arteria radial
+arteria_axilar.png,¿Qué arteria corresponde a la letra d?,Arteria subescapular,Arteria torácica externa,Arteria braquial,Arteria toracodorsal
+arteria_axilar.png,¿Qué arteria corresponde a la letra e?,Arteria circunfleja humeral caudal,Arteria subescapular,Arteria escapular,Arteria ilíaca externa
+arteria_axilar.png,¿Qué arteria corresponde a la letra f?,Arteria toracodorsal,Arteria torácica interna,Arteria axilar,Arteria braquial profunda
+arteria_axilar.png,¿Qué arteria corresponde a la letra g?,Arteria circunfleja de la escápula,Arteria torácica externa,Arteria radial,Arteria circunfleja ilíaca
+arteria_braquial.png,¿Qué arteria corresponde a la letra a?,Arteria braquial,Arteria axilar,Arteria cubital colateral,Arteria interósea común
+arteria_braquial.png,¿Qué arteria corresponde a la letra b?,Arteria braquial profunda,Arteria cubital transversa,Arteria torácica externa,Arteria radial
+arteria_braquial.png,¿Qué arteria corresponde a la letra c? (Solo en perros),Arteria braquial superficial,Arteria bicipital,Arteria axilar,Arteria escapular
+arteria_braquial.png,¿Qué arteria corresponde a la letra d?,Arteria bicipital,Arteria cubital colateral,Arteria circunfleja humeral,Arteria braquial profunda
+arteria_braquial.png,¿Qué arteria corresponde a la letra e?,Arteria cubital colateral,Arteria braquial,Arteria toracodorsal,Arteria bicipital
+arteria_braquial.png,¿Qué arteria corresponde a la letra f?,Arteria cubital transversa,Arteria braquial superficial,Arteria axilar,Arteria escapular
+arteria_braquial.png,¿Qué arteria corresponde a la letra g?,Arteria interósea común,Arteria cubital colateral,Arteria radial superficial,Arteria torácica interna
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra a?,N. supraescapular,N. subescapular,N. radial,N. pectoral caudal
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra b?,N. subescapular,N. toracodorsal,N. mediano,N. pectoral craneal
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra c?,N. toracodorsal,N. musculocutáneo,N. gran torácico,N. cubital
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra d?,N. axilar,N. radial,N. torácico lateral,N. supraescapular
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra e?,N. radial,N. cubital,N. subescapular,N. pectoral caudal
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra f?,N. musculocutáneo,N. toracodorsal,N. gran torácico,N. pectoral craneal
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra g?,N. mediano,N. radial,N. axilar,N. subescapular
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra h?,N. cubital,N. pectoral caudal,N. torácico lateral,N. musculocutáneo
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra i?,N. torácico lateral,N. gran torácico,N. cubital,N. axilar
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra j?,N. pectoral craneal,N. pectoral caudal,N. mediano,N. musculocutáneo
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra k?,N. pectoral caudal,N. radial,N. toracodorsal,N. mediano
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra l?,N. gran torácico,N. torácico lateral,N. musculocutáneo,N. pectoral caudal
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra m? (ausente en perros),Asa axilar,N. mediano,N. cubital,N. supraescapular
+nervios_toracicos_cervicales.png,¿Qué estructura es la letra n?,A. axilar (rama),N. pectoral craneal,N. interósea común,N. torácico lateral
+nervios_region_humero.png,¿Qué estructura es la letra a?,N. radial,N. mediano,N. musculocutáneo proximal,N. cutáneo antebraquial caudal
+nervios_region_humero.png,¿Qué estructura es la letra b?,N. cubital,N. radial,N. mediano,Rama distal del n. musculocutáneo
+nervios_region_humero.png,¿Qué estructura es la letra c?,N. cutáneo antebraquial caudal,N. radial,N. cubital,N. torácico lateral
+nervios_region_humero.png,¿Qué estructura es la letra d?,N. mediano,N. radial,N. pectoral craneal,N. axilar
+nervios_region_humero.png,¿Qué estructura es la letra e?,Rama proximal del n. musculocutáneo,Rama distal del n. musculocutáneo,N. cubital,N. mediano
+nervios_region_humero.png,¿Qué estructura es la letra f?,Rama distal del n. musculocutáneo,Rama proximal del n. musculocutáneo,N. torácico lateral,N. cutáneo antebraquial caudal
+partes_humero_radio_ulnar.png,¿Qué estructura es la letra a?,M. coracobraquial,M. braquial,Húmero,M. pronador redondo
+partes_humero_radio_ulnar.png,¿Qué estructura es la letra b?,Húmero,Cúbito,Radio,M. pronador cuadrado
+partes_humero_radio_ulnar.png,¿Qué estructura es la letra c?,M. braquial,M. coracobraquial,M. pronador redondo,Agujero supracondilar
+partes_humero_radio_ulnar.png,¿Qué estructura es la letra d?,Agujero supracondilar,Húmero,Radio,M. braquial
+partes_humero_radio_ulnar.png,¿Qué estructura es la letra e?,M. pronador redondo,M. pronador cuadrado,M. coracobraquial,Cúbito
+partes_humero_radio_ulnar.png,¿Qué estructura es la letra f?,Cúbito,Húmero,M. braquial,M. pronador redondo
+partes_humero_radio_ulnar.png,¿Qué estructura es la letra g?,Radio,Cúbito,Agujero supracondilar,M. coracobraquial
+partes_humero_radio_ulnar.png,¿Qué estructura es la letra h?,M. pronador cuadrado,M. pronador redondo,M. braquial,Radio
+partes_humero_radio_ulnar1.png,¿Qué estructura es la letra a?,M. Redondo Menor,Olécranon,M. supinador,Cúbito
+partes_humero_radio_ulnar1.png,¿Qué estructura es la letra b?,Húmero,Radio,M. pronador redondo,M. braquial
+partes_humero_radio_ulnar1.png,¿Qué estructura es la letra c?,M. braquial,M. coracobraquial,Olécranon lateral,Tubérculo mayor
+partes_humero_radio_ulnar1.png,¿Qué estructura es la letra d?,Olecranon colateral lateral,Tubérculo menor,M. supinador,M. braquial
+partes_humero_radio_ulnar1.png,¿Qué estructura es la letra e?,M. pronador redondo,M. coracobraquial,Húmero,M. supinador
+partes_humero_radio_ulnar1.png,¿Qué estructura es la letra f?,M. supinador,M. pronador redondo,M. braquial,Cúbito
+partes_humero_radio_ulnar1.png,¿Qué estructura es la letra g?,Radio,Cúbito,Húmero,Olécranon
+partes_humero_radio_ulnar1.png,¿Qué estructura es la letra h?,Cúbito,Radio,M. braquial,M. supinador
+musculos_miembro_toracico.png,¿Qué músculo corresponde a la letra A?,M. extensor radial del carpo,M. flexor cubital del carpo,M. extensor digital común,M. interóseo
+musculos_miembro_toracico.png,¿Qué músculo corresponde a la letra B?,M. extensor digital común,M. extensor digital lateral,M. abductor largo del primer dedo,M. extensor cubital del carpo
+musculos_miembro_toracico.png,¿Qué músculo corresponde a la letra C?,M. extensor digital lateral,M. extensor radial del carpo,M. interóseo,M. extensor del primero y segundo dedo
+musculos_miembro_toracico.png,¿Qué músculo corresponde a la letra D?,M. extensor cubital del carpo,M. flexor cubital del carpo,M. abductor largo del primer dedo,M. extensor digital común
+musculos_miembro_toracico.png,¿Qué músculo corresponde a la letra E?,M. abductor largo del primer dedo,M. interóseo,M. extensor del primero y segundo dedo,M. extensor digital lateral
+musculos_miembro_toracico.png,¿Qué músculo corresponde a la letra F?,M. extensor del primero y del segundo dedo,M. extensor digital común,M. flexor cubital del carpo,M. abductor largo del primer dedo
+musculos_miembro_toracico.png,¿Qué músculo corresponde a la letra G?,M. flexor cubital del carpo,M. extensor radial del carpo,M. interóseo,M. extensor del primero y segundo dedo
+musculos_miembro_toracico.png,¿Qué músculo corresponde a la letra H?,M. interóseo,M. extensor digital lateral,M. flexor cubital del carpo,M. extensor cubital del carpo
+arteria_mediana.png,¿Qué arteria corresponde a la letra a?,Arteria mediana,Arteria braquial,Arteria cubital,Arteria interósea común
+arteria_mediana.png,¿Qué arteria corresponde a la letra b?,Arteria radial,Arteria digital común,Arteria mediana,Arteria palmar
+arteria_mediana.png,¿Qué rama corresponde a la letra c?,Rama dorsal de la a. radial,Rama palmar de la a. radial,Arteria radial proximal,Rama medial
+arteria_mediana.png,¿Qué rama corresponde a la letra d?,Rama palmar de la a. radial,Rama dorsal de la a. radial,Arteria braquial,Arteria digital caudal
+arteria_interosa_comun.png,¿Qué arteria corresponde a la letra a?,Arteria interósea común,Arteria cubital,Arteria mediana,Arteria radial
+arteria_interosa_comun.png,¿Qué arteria corresponde a la letra b?,Arteria interósea craneal,Arteria radial,Arteria mediana,Arteria interósea caudal
+arteria_interosa_comun.png,¿Qué arteria corresponde a la letra c?,Arteria interósea caudal,Arteria cubital,Arteria interósea craneal,Arteria digital común
+nervio_radial.png,¿Qué estructura es la letra a?,Nervio radial,Nervio cubital,Nervio mediano,Nervio musculocutáneo
+nervio_radial.png,¿Qué estructura es la letra b?,Rama profunda del nervio radial,Rama palmar del cubital,Rama dorsal del mediano,Nervio interóseo
+nervio_radial.png,¿Qué estructura es la letra c?,Rama superficial del nervio radial,Rama profunda del cubital,Rama medial del mediano,Nervio radial accesorio
+arteria_iliaca_externa.png,¿Qué arteria es la letra a?,Arteria ilíaca externa,Arteria femoral superficial,Arteria glútea,Arteria isquiática
+arteria_iliaca_externa.png,¿Qué arteria es la letra b?,A. circunfleja ilíaca profunda,A. epigástrica caudal profunda,A. femoral profunda,A. pudenda interna
+arteria_iliaca_externa.png,¿Qué arteria es la letra c?,A. femoral profunda,A. femoral superficial,A. ilíaca interna,A. pudenda externa
+arteria_iliaca_externa.png,¿Qué arteria es la letra d?,A. circunfleja femoral medial,A. femoral profunda,A. epigástrica craneal,A. glútea craneal
+arteria_iliaca_externa.png,¿Qué arteria es la letra e?,Tronco pudendo epigástrico,A. femoral superficial,A. pudenda externa,A. circunfleja ilíaca profunda
+arteria_iliaca_externa.png,¿Qué arteria es la letra f?,A. pudenda externa,A. isquiática,A. femoral profunda,A. epigástrica caudal superficial
+arteria_iliaca_externa.png,¿Qué arteria es la letra g?,A. epigástrica caudal profunda,A. epigástrica craneal,A. ilíaca externa,A. circunfleja femoral medial
+arteria_femoral.png,¿Qué arteria es la letra a?,Arteria femoral,Arteria poplítea,Arteria ilíaca externa,Arteria safena
+arteria_femoral.png,¿Qué arteria es la letra b?,A. circunfleja femoral lateral,A. descendente de la rodilla,A. femoral caudal distal,A. pudenda externa
+arteria_femoral.png,¿Qué arteria es la letra c?,A. femoral caudal proximal,A. circunfleja ilíaca profunda,A. poplítea,A. femoral caudal distal
+arteria_femoral.png,¿Qué arteria es la letra d?,A. femoral caudal media,A. descendente de la rodilla,A. femoral profunda,A. glútea craneal
+arteria_femoral.png,¿Qué arteria es la letra e?,A. descendente de la rodilla,A. safena,A. femoral caudal proximal,A. poplítea
+arteria_femoral.png,¿Qué arteria es la letra f?,A. safena,A. descendente de la rodilla,A. poplítea,A. femoral caudal media
+arteria_femoral.png,¿Qué arteria es la letra g?,A. femoral caudal distal,A. poplítea,A. femoral caudal media,A. pudenda externa
+arteria_femoral.png,¿Qué arteria es la letra h?,A. poplítea,A. safena,A. femoral caudal proximal,A. descendente de la rodilla
+nervio_femoral.png,¿Qué estructura es la letra a?,Nervio femoral,Nervio ciático,Nervio safeno,Nervio obturador
+nervio_femoral.png,¿Qué estructura es la letra b?,Nervio safeno,Nervio femoral,Nervio glúteo caudal,Nervio pudendo
+nervio_ciatico.png,¿Qué estructura es la letra a?,Nervio ciático,Nervio femoral,Nervio tibial,Nervio safeno
+nervio_ciatico.png,¿Qué estructura es la letra b?,Nervio cutáneo femoral caudal,Nervio peroneo común,Nervio pudendo,Nervio obturador
+nervio_ciatico.png,¿Qué estructura es la letra c?,Ramas musculares del nervio ciático,Nervio tibial,Nervio glúteo caudal,Ramas sensitivas del peroneo
+nervio_ciatico.png,¿Qué estructura es la letra d?,Nervio cutáneo caudal de la pierna,Nervio cutáneo femoral,Nervio pudendo caudal,Nervio femorocutáneo
+nervio_ciatico.png,¿Qué estructura es la letra e?,Nervio peroneo común,Nervio tibial,Nervio safeno,Nervio isquiático
+nervio_ciatico.png,¿Qué estructura es la letra f?,Nervio tibial,Nervio peroneo superficial,Nervio femoral,Nervio glúteo craneal
