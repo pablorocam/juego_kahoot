@@ -4,7 +4,7 @@ import random
 
 @st.cache_data
 def cargar_preguntas(archivo_csv):
-    df = pd.read_csv(archivo_csv, encoding='latin1')
+    df = pd.read_csv(archivo_csv, encoding='utf-8')
     preguntas = df.to_dict(orient='records')
     random.shuffle(preguntas)
     return preguntas
