@@ -17,7 +17,8 @@ def main():
         "🥓 Lípidos": "preguntas_lipidos.csv",
         "🫁 Tórax": "preguntas_torax.csv",
         "🧠 Neuro": "preguntas_neuro.csv",
-        "💀 Miembro torácico": "preguntas_miembro_toracico.csv"
+        "💀 Miembro torácico": "preguntas_miembro_toracico.csv",
+        "🦵 Estructura y Funcion": "preguntas_EYF.csv",
     }
 
     tema_seleccionado = st.selectbox("Selecciona un tema:", list(temas_disponibles.keys()))
